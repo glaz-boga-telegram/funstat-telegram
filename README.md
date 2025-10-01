@@ -1,6 +1,6 @@
 # Фанстат: OSINT-инструмент для анализа данных в Telegram и СНГ
 
-![GitHub stars](https://img.shields.io/github/stars/fanstat-osint/core?style=social) ![License](https://img.shields.io/github/license/fanstat-osint/core) ![Release](https://img.shields.io/github/v/release/fanstat-osint/core)
+![GitHub stars](https://img.shields.io/github/stars/fanstat/core?style=social) ![License](https://img.shields.io/github/license/fanstat/core) ![Release](https://img.shields.io/github/v/release/fanstat/core)
 
 ![Интерфейс Фанстат ТГ бота при работе с открытыми данными](logo.png)
 
